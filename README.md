@@ -17,5 +17,4 @@ ex) 셀카를 찍은 뒤 '슬픔' 감정을 진단 받음.
 시 데이터베이스에서 이별을 극복하는 시들 중 하나를 랜덤하게 추출하여 영수증 크기로 출력.
 사용자에게 큰 위로가 될 수 있는 '시 선물'이 됨.
 
-↓↓ 더 자세한 설명은 이 곳으로 go go !
-https://docs.google.com/document/d/19_XD-YocWCTWGBoKvBPaPQFyUUWpwwmPCeIWUkN7WbI/edit?usp=sharing
+
